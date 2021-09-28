@@ -10,5 +10,18 @@ Hi there 😄
 
 📫  How to reach me: dahmouni_amir@hotmail.fr
 
+Languages and Tools:
+
+HTML5
+CSS3
+Visual Studio Code
+JavaScript
+React
+GraphQL
+Node.js
+MongoDB
+GitHub
+Socket.io
+
 
 
