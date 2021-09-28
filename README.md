@@ -12,7 +12,6 @@ Hi there 😄
 
 Languages and Tools:
 
-![image](https://user-images.githubusercontent.com/75455650/135178473-03cd8578-a466-4733-9155-de4f21cec311.png)
 
 
 
