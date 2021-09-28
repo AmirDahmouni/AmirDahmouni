@@ -1,4 +1,4 @@
-# Amir-Dahmouni
+# Amir Dahmouni
 
 Hi there 😄
 
