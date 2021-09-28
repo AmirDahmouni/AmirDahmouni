@@ -12,16 +12,7 @@ Hi there 😄
 
 Languages and Tools:
 
-HTML5
-CSS3
-Visual Studio Code
-JavaScript
-React
-GraphQL
-Node.js
-MongoDB
-GitHub
-Socket.io
+![image](https://user-images.githubusercontent.com/75455650/135178473-03cd8578-a466-4733-9155-de4f21cec311.png)
 
 
 
