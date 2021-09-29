@@ -8,7 +8,10 @@ Hi there 😄
 
 💡  I'm interested in blockchain development
 
+🔍 I 'm currently looking for an internship
+
 📫  How to reach me: dahmouni_amir@hotmail.fr
+
 
 ## Languages and Tools:
 
