@@ -1,6 +1,8 @@
 # Amir Dahmouni
 
-Hi there 😄
+Hi there 😄 
+
+
 
 👋 I'm Amir Dahmouni, I'm a Software Engineer Student at ISSATSO, and I've been working on MERN Stack since 2019.
 
@@ -12,6 +14,11 @@ Hi there 😄
 
 📫  How to reach me: dahmouni_amir@hotmail.fr
 
+## Contacts:
+
+[![Website](https://img.shields.io/website?label=My-Portfolio&style=for-the-badge&url=https://amirdahmouni.github.io/My-Portfolio)](https://amirdahmouni.github.io/My-Portfolio/)
+[<img align="left" alt="amir dahmouni | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<br>
 
 ## Languages and Tools:
 
@@ -31,7 +38,7 @@ Hi there 😄
 
 
 
-
+[linkedin]:https://www.linkedin.com/in/amir-dahmouni/
 
 
 
