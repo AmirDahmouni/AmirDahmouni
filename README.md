@@ -8,7 +8,7 @@ Hi there 😄
 
 💞️ I’m looking to collaborate on web development projects
 
-💡  I'm interested in blockchain development
+💡  I'm interested in cloud services (AWS)
 
 🔍 I 'm currently looking for an internship
 
