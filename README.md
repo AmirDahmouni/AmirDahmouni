@@ -12,7 +12,7 @@ Hi there 😄
 
 🔍 I 'm currently looking for an internship
 
-📫  How to reach me: dahmouni_amir@hotmail.fr
+📫  How to reach me: dahmouni.amir@gmail.com
 
 ## Contacts:
 
