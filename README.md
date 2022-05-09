@@ -38,7 +38,7 @@ Hi there 😄
 <img align="left" alt="MongoDB" width="36px" height="36px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" />
 <img align="left" alt="MySql" width="36px" height="36px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" />
 <img align="left" alt="GitHub" width="36px" height="36px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" src="https://raw.githubusercontent.com/lordbasex/docker/master/docker-logo.png" width="36px" height="36px" alt="docker"/>
+<img align="left" src="https://raw.githubusercontent.com/docker-library/docs/c350af05d3fac7b5c3f6327ac82fe4d990d8729c/docker/logo.png" width="36px" height="36px" alt="docker"/>
 <br>
 ### Badges
 
