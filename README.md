@@ -39,7 +39,7 @@ Hi there 😄
 <img align="left" alt="MySql" width="36px" height="36px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" />
 <img align="left" alt="GitHub" width="36px" height="36px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" src="https://raw.githubusercontent.com/lordbasex/docker/master/docker-logo.png" width="36px" height="36px" alt="docker"/>
-
+<br>
 ### Badges
 
 
