@@ -4,15 +4,15 @@ Software engineer
 -----------------
 Hi there 😄 
 
-👋 I'm Amir Dahmouni, I'm a Software Engineer Student at ISSATSO who is passionate about programming, I have been enthusiastic about the computer science world science since I was 16 years old and I've been working on MERN Stack Projects since 2019.
+👋 I'm Amir Dahmouni,I am a fresh graduate Software Engineer Student from ISSATSO who is passionate about programming, I have been enthusiastic about the computer science world science since I was 16 years old and I've been working on MERN Stack Projects since 2019.
 
 💞️ I’m looking to collaborate on web development projects
 
 💡  I'm interested in DevOps engineer
 
-🔍 I 'm currently looking for an internship
+🔍 I'm currently looking for new job opportunities
 
-⚡  I'm super motivated person when it comes to programming
+⚡ I'm super motivated person when it comes to programming
 
 📫  How to reach me: dahmouni.amir@gmail.com
 
