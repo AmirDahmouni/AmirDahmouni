@@ -18,7 +18,7 @@ Hi there 😄
 
 ## Contacts:
 
-[![Website](https://img.shields.io/website?label=My-Portfolio&style=for-the-badge&url=https://my-portfolio-amirdahmouni.vercel.app/)](https://my-portfolio-amirdahmouni.vercel.app/)
+[![Website](https://img.shields.io/website?label=My-Portfolio&style=for-the-badge)]()
 [<img align="left" alt="amir dahmouni | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br>
 
