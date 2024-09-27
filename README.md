@@ -4,11 +4,11 @@ Software engineer
 -----------------
 Hi there 😄 
 
-👋 I'm Amir Dahmouni, I'm a Software Engineer, who graduated from ISSATSO and who is passionate about programming, I have been enthusiastic about the computer science world science since I was 16 years old and I've been working on MERN Stack Projects since 2019.
+👋 I'm Amir Dahmouni, I'm a Software Engineer, who graduated from ISSATSO and who is passionate about programming, I have been enthusiastic about the computer science world science since I was 16 years old and I have been working with the MERN stack (Node.js, React.js, MongoDB) and the Nest.js/Next.js ecosystems since 2019. My experience includes SQL and NoSQL databases, primarily PostgreSQL and MongoDB, utilizing Prisma ORM in Nest.js projects and Knex.js in Node.js applications
 
 💞️ I’m looking to collaborate on web development projects
 
-💡  I'm interested in DevOps engineer
+💡  I'm Interested in DevOps, focusing on CI/CD with Jenkins, AWS infrastructure with Terraform, machine configuration with Ansible, and shell scripting.
 
 🔍 I'm currently looking for new job opportunities
 
