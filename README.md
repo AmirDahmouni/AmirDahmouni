@@ -32,9 +32,9 @@ Hi there 😄
 <img align="left" alt="Typescript" width="36px" height="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 <img align="left" alt="Node.js" width="36px" height="36px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" />
 <img align="left" alt="express.js" width="36px" height="36px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg"  />
-<img alt=" nest.js" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs.svg" height="36px" width="36px"/>
+<img alt=" nest.js" src="https://nestjs.com/img/logo-small.svg" height="36px" width="36px"/>
 <img align="left" alt="React" width="36px" height="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs.svg" width="36px" height="36px" />
+<img align="left" src="https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_light_background.png" width="36px" height="36px" />
 <img align="left" alt="Redux" width="36px" height="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
 <img align="left" alt="Vue" width="36px" height="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
 <img align="left" alt="GraphQL" width="36px" height="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
