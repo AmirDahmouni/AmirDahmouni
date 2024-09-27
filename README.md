@@ -36,11 +36,14 @@ Hi there 😄
 <img align="left" alt="React" width="36px" height="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs.svg" width="36px" height="36px" />
 <img align="left" alt="Redux" width="36px" height="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
+<img align="left" alt="Vue" width="36px" height="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
 <img align="left" alt="GraphQL" width="36px" height="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
 <img align="left" alt="MongoDB" width="36px" height="36px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" />
-<img align="left" alt="MySql" width="36px" height="36px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" />
+<img align="left" alt="PostgreSql" width="36px" height="36px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql.svg" />
 <img align="left" alt="GitHub" width="36px" height="36px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" src="https://raw.githubusercontent.com/docker-library/docs/c350af05d3fac7b5c3f6327ac82fe4d990d8729c/docker/logo.png" width="36px" height="36px" alt="docker"/>
+<img align="left" src="https://www.jenkins.io/images/jenkins-logo-title-dark.svg" width="65px" height="36px" alt="Jenkins"/>
+
 <br>
 
 
