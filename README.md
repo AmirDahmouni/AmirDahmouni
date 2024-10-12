@@ -8,7 +8,7 @@ Hi there 😄
 
 💞️ I’m looking to collaborate on web development projects
 
-💡  I'm Interested in DevOps, focusing on CI/CD with Jenkins, AWS infrastructure with Terraform, machine configuration with Ansible, and shell scripting.
+💡  I'm interested in DevOps, focusing on CI/CD pipelines using Jenkins, Kubernetes cluster management, machine configuration with Ansible, and shell scripting.
 
 🔍 I'm currently looking for new job opportunities
 
