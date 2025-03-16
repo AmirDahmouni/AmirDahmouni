@@ -5,7 +5,9 @@ Software engineer
 Salut 😄
 
 👋 Je suis Amir, développeur web fullstack, passionné par la programmation. 
+
 Je m'intéresse au monde de l'informatique depuis l'âge de 16 ans et je travaille avec la stack MERN Node.js, React.js, MongoDB ainsi que les écosystèmes Nest.js/Next.js depuis 2019. 
+
 Mon expérience inclut les bases de données SQL et NoSQL, principalement PostgreSQL et MongoDB, en utilisant Prisma ORM dans les projets Nest.js et Knex.js dans les applications Node.js.
 
 💞️ Je cherche à collaborer sur des projets de développement web.
