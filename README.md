@@ -2,19 +2,21 @@
 
 Software engineer
 -----------------
-Hi there 😄 
+Salut 😄
 
-👋 I'm Amir Dahmouni, I'm a Software Engineer, who graduated from ISSATSO and who is passionate about programming, I have been enthusiastic about the computer science world science since I was 16 years old and I have been working with the MERN stack (Node.js, React.js, MongoDB) and the Nest.js/Next.js ecosystems since 2019. My experience includes SQL and NoSQL databases, primarily PostgreSQL and MongoDB, utilizing Prisma ORM in Nest.js projects and Knex.js in Node.js applications
+👋 Je suis Amir Dahmouni, ingénieur logiciel diplômé de l'ISSATSO et passionné par la programmation. 
+Je m'intéresse au monde de l'informatique depuis l'âge de 16 ans et je travaille avec la stack MERN Node.js, React.js, MongoDB ainsi que les écosystèmes Nest.js/Next.js depuis 2019. 
+Mon expérience inclut les bases de données SQL et NoSQL, principalement PostgreSQL et MongoDB, en utilisant Prisma ORM dans les projets Nest.js et Knex.js dans les applications Node.js.
 
-💞️ I’m looking to collaborate on web development projects
+💞️ Je cherche à collaborer sur des projets de développement web.
 
-💡  I'm interested in DevOps, focusing on CI/CD pipelines using Jenkins, Kubernetes cluster management, machine configuration with Ansible, and shell scripting.
+💡 Je m'intéresse au DevOps, en me concentrant sur les pipelines CI/CD avec Jenkins, la gestion de clusters Kubernetes, la configuration des machines avec Ansible et le scripting shell.
 
-🔍 I'm currently looking for new job opportunities
+🔍 Je suis actuellement à la recherche de nouvelles opportunités professionnelles.
 
-⚡ I'm super motivated person when it comes to programming
+⚡ Je suis une personne ultra motivée lorsqu'il s'agit de programmation.
 
-📫  How to reach me: dahmouni.amir@gmail.com
+📫 Vous pouvez me contacter à : dahmouni.amir@gmail.com
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Click_here-blue)](https://my-portfolio-tawny-eta-69.vercel.app/)
 
