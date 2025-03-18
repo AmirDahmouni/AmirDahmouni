@@ -16,7 +16,7 @@ Mon expérience inclut les bases de données SQL et NoSQL, principalement Postgr
 
 🔍 Je suis actuellement à la recherche de nouvelles opportunités professionnelles.
 
-⚡ Je suis une personne ultra motivée lorsqu'il s'agit de programmation.
+⚡
 
 📫 Vous pouvez me contacter à : dahmouni.amir@gmail.com
 
