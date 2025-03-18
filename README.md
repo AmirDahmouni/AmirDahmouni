@@ -20,7 +20,6 @@ Mon expérience inclut les bases de données SQL et NoSQL, principalement Postgr
 
 📫 Vous pouvez me contacter à : dahmouni.amir@gmail.com
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Click_here-blue)](https://my-portfolio-tawny-eta-69.vercel.app/)
 
 ## Contacts:
 
